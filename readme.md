@@ -119,3 +119,7 @@
 PRIVATE_KEY=your_private_key
 INFURA_PROJECT_ID=your_infura_project_id
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
